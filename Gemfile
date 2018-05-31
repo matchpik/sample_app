@@ -8,6 +8,10 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
+# SASS CSS
+gem 'bootstrap-sass', '3.2.0.0'
+# assert_tenmplate is a gem now
+gem 'rails-controller-testing'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
